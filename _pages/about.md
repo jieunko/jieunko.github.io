@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Detail-oriented software developer with 3+ years of experience in computer vision and rendering. 
-Thrive on solving complex problems using cutting-edge technology with passion for robotics and 3D reconstruction. 
-Committed to collaborative, innovative R&D projects in autonomous systems for shaping the future of technology.
+Welcome! 
+
+I am Jieun Ko, a detail-oriented software developer with 3+ years of experience in computer vision and rendering. I received my Master’s degree in Electrical and Computer Engineering from Sungkyunkwan University in Feb. 2021, specializing in real-time rendering as a member of Computer Graphics Lab under the guidance of Professor Sungkil Lee.
+
+From 2021 to 2022, I gained valuable research experience as a research intern at the Artificial Intelligence and Robotics Institute of KIST, in the field of 3D reconstruction under the supervision of Dr. Junsik Kim.
+
+ I enjoy working on interdisciplinary teams to develop solutions that address practical challenges. Through my work, I aim to contribute to the advancement of intelligent systems that can better perceive and interact with complex environments.
+
+My main research interests lie specializing in AI, computer vision, and 3D graphics with a particular interest in applying these technologies to robotics and autonomous systems and enable them to understand real-world 3D environment.
